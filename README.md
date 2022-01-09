@@ -1,6 +1,6 @@
 # Facebook-clone
 
-node >= 6.14.12
+node >=14.16.1
 
 Removes all spaces from a string.
 
