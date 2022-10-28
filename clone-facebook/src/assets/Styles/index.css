@@ -469,7 +469,7 @@ header {
   height: 100%;
   flex-direction: row;
   border-radius: 5px;
-  padding: 2px 0px;
+  padding: 2px 15px;
   align-items: center;
 }
 .item__option:hover{
