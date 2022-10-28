@@ -14,3 +14,5 @@ $ npm install
 ```
 $ npm run dev
 ```
+Live app: 
+https://mosvirs.github.io/facebook-clone/
