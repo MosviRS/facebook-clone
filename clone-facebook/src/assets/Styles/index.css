@@ -300,7 +300,7 @@ header {
   height: 120px;
   object-fit: cover;
   border-radius: 10px;
-  background:url('/src/assets/img/paisaje.png') no-repeat;
+  background:url('~/src/assets/img/paisaje.png') no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0px 5px 17px -7px rgba(0, 0, 0,0.75);
